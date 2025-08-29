@@ -6,7 +6,7 @@ console.log(3+3); // code should be readable
 
 
 
-let nam = "Shivi";
+let nam = "Rekha";
 let age = 20;
 let isLoggedIn = false;
 let state = null;

@@ -9,7 +9,7 @@ console.log(3+3); // code should be readable
 let nam = "Shivi";
 let age = 20;
 let isLoggedIn = false;
-let state = null ; 
+let state = null;
 //undefiend matlb value abhi asign nae hue hai .. baaad me hogi
 
 //Primitive data typo

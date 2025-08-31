@@ -10,6 +10,7 @@ Array , Object , Function
 
 const id = Symbol('123')
 const anotherId = Symbol('123')
+
 console.log(id)
 console.log(id === anotherId )        //false
 
@@ -26,3 +27,6 @@ const myFunction = function(){         // function
     console.log("Hello World")
 }
 myFunction()
+
+let a = null ;
+console.log(typeof(a))    // object
